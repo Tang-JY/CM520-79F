@@ -7,4 +7,4 @@
 [Factory Image](https://raw.githubusercontent.com/ActiveIce/CM520-79F/master/openwrt-ipq40xx-generic-mobipromo_cm520-79f-squashfs-nand-factory.ubi)
 
 
-[System Upgrade Image](https://raw.githubusercontent.com/ActiveIce/CM520-79F/openwrt-ipq40xx-generic-mobipromo_cm520-79f-squashfs-nand-sysupgrade.bin)
+[System Upgrade Image](https://raw.githubusercontent.com/ActiveIce/CM520-79F/master/openwrt-ipq40xx-generic-mobipromo_cm520-79f-squashfs-nand-sysupgrade.bin)
